@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LAST DANCE",
+  "base_artist": "Kinokoteikoku",
+  "createdAt": "2026-03-08T08:46:28.460529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Gabriel Kahane",
+      "has_synced": true,
+      "path": "select/01_Last_Dance_Gabriel_Kahane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_Last_Dance_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Math and Physics Club",
+      "has_synced": false,
+      "path": "select/03_Last_Dance_Math_and_Physics_Club.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "The Mekons",
+      "has_synced": false,
+      "path": "select/04_Last_Dance_The_Mekons.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/05_Last_Dance_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Ozma",
+      "has_synced": false,
+      "path": "select/06_Last_Dance_Ozma.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Rhye",
+      "has_synced": true,
+      "path": "select/07_Last_Dance_Rhye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Last Dance",
+      "artist": "Badly Drawn Boy",
+      "has_synced": true,
+      "path": "select/08_One_Last_Dance_Badly_Drawn_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "W O L F C L U B feat. Petia Pavlova",
+      "has_synced": true,
+      "path": "select/09_Last_Dance_W_O_L_F_C_L_U_B_feat._Petia_Pavlova.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/10_Last_Dance_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/11_Last_Dance_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Dance - Studio Guide Vocal Rough",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/12_Last_Dance_-_Studio_Guide_Vocal_Rough_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Dance (Studio Rough - Guide Vocal)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/13_Last_Dance_(Studio_Rough_-_Guide_Vocal)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Last Dance of Mr. X",
+      "artist": "Andy Summers",
+      "has_synced": false,
+      "path": "select/14_The_Last_Dance_of_Mr._X_Andy_Summers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Dance",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Last_Dance_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST DANCE",
+      "artist": "きのこ帝国",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_DANCE_きのこ帝国.txt"
+    }
+  ]
+}
