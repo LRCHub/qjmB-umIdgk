@@ -1,0 +1,24 @@
+# Kinokoteikoku – LAST DANCE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+あなたの方から去ってゆくのに
+「変わらないで」なんて勝手すぎる
+Oh darling.
+I love you. I love you. I love you baby.
+And I can do nothing without you baby.
+Love me. Love me. Love me baby.
+もう一度
+あなたは変わっていった 少しずつ
+これで最後なんて勝手すぎる
+Oh darling.
+I love you. I love you. I love you baby.
+And I can do nothing without you baby.
+Love me. Love me. Love me baby.
+もう一度
+I love you. I love you. I love you baby.
+And I can do nothing without you baby.
+Love me. Love me. Love me baby.
+もう一度
+```
